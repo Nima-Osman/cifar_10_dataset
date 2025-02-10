@@ -23,7 +23,7 @@
     <h3>Data Preprocessing</h3>
     <p>To improve convergence, pixel values are normalised to the range of [0,1]. Additionally, data augmentation techniques, such as random horizontal flips, rotations, and shifts, are applied to improve generalisation.</p>
 
-[For code](Neural network python code.ipynb)
+[For code](code.ipynb)
 
 <h3>Model Architecture</h3>
     <p>The CNN model consists of convolutional layers with ReLU activation functions, followed by max-pooling layers to reduce dimensionality. Dropout layers are incorporated to prevent overfitting, and the final output layer uses a softmax activation function for multi-class classification.</p>
@@ -85,6 +85,7 @@ The graphical analysis of training and validation loss indicates that the model 
         <li>If the model is trained on biased or incomplete data, it can make decisions that unfairly affect certain people.</li>
     </ul>
     <p>So, when using machine learning in real-world applications, it’s essential to be aware of the ethical risks and ensure that the technology is used responsibly, especially in situations where people’s lives are at stake.</p>   
+ 
  [For references](references.md)
 </body>
 </html>
