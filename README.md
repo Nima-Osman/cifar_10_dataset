@@ -39,20 +39,20 @@
     
 <p>The classification report provides a detailed breakdown of precision, recall, and F1-score for each class. The model achieved an overall accuracy of approximately 85%, with some classes, such as trucks and airplanes, achieving higher accuracy than others. The confusion matrix highlights misclassifications, with some overlap between similar classes like cats and dogs. 
 <p align="center">
-<img src="images\cifar 2.png"  alt="Centered Image"  width="500">
+<img src="images\cifar 4.png"  alt="Centered Image"  width="500">
 </p>
 <p align="center">
-<img src="images\cifar 3.png"  alt="Centered Image"  width="500">
+<img src="images\cifar 5.png"  alt="Centered Image"  width="500">
 </p>
     
 The graphical analysis of training and validation loss indicates that the model successfully learned patterns without severe overfitting. Accuracy curves demonstrate steady improvement across epochs. The final test image of a truck was correctly classified, verifying the model's ability to generalize to unseen data.</p>
 
 <p align="center">
-<img src="images\cifar 4.png"  alt="Centered Image"  width="500">
+<img src="images\cifar 2.png"  alt="Centered Image"  width="500">
 </p>
 
 <p align="center">
-<img src="images\cifar 5.png"  alt="Centered Image"  width="500">
+<img src="images\cifar 3.png"  alt="Centered Image"  width="500">
 </p>
 
 <p align="center">
