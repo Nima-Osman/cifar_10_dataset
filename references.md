@@ -1,15 +1,15 @@
 <h2>References</h2>
     <ul>
-        <li><a href="https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/">What Is a Neural Network? (Spiceworks, 2025)</a></li>
-        <li><a href="https://www.datacamp.com/tutorial/introduction-to-activation-functions-in-neural-networks">Introduction to Activation Functions (Datacamp, 2024)</a></li>
-        <li><a href="https://machinelearningmastery.com/using-normalization-layers-to-improve-deep-learning-models/">Using Normalization Layers (Machine Learning Mastery, 2022)</a></li>
-        <li><a href="https://www.geeksforgeeks.org/training-and-validation-loss-in-deep-learning/">Training and Validation Loss (GeeksforGeeks, 2024)</a></li>
-        <li><a href="https://www.geeksforgeeks.org/why-do-we-use-both-validation-set-and-test-set/">Validation and Test Set (GeeksforGeeks, 2024)</a></li>
-        <li><a href="https://www.deeplearningbook.org/">Deep Learning (Goodfellow et al., 2016)</a></li>
-        <li><a href="https://www.hopsworks.ai/dictionary/model-architecture">What Is a Model Architecture? (Hopsworks)</a></li>
-        <li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10 and CIFAR-100 (Krizhevsky, 2009)</a></li>
-        <li><a href="https://www.nature.com/articles/nature14539">Deep Learning (LeCun et al., 2015)</a></li>
-        <li><a href="https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7">Artificial vs. Biological Neural Networks (Nagyfi, 2018)</a></li>
-        <li><a href="https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn#Step-2-%7C-Data-Preparation-and-Exploration">CIFAR-10 Image Classification (Nekouei, 2023)</a></li>
-        <li><a href="https://www.researchgate.net/post/Normalizing_a_image_dataset_for_CNN">Normalizing an Image Dataset (Waiss, 2023)</a></li>
+        <li>Spiceworks, 2025. What Is a Neural Network? Available at: <a href="https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/">https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-a-neural-network/</a>.</li>
+        <li>Ali, M., 2024. Introduction to Activation Functions in Neural Networks. Datacamp. Available at: <a href="https://www.datacamp.com/tutorial/introduction-to-activation-functions-in-neural-networks">https://www.datacamp.com/tutorial/introduction-to-activation-functions-in-neural-networks</a>.</li>
+        <li>Chng, Z. M., 2022. Using Normalization Layers to Improve Deep Learning Models. Machine Learning Mastery. Available at: <a href="https://machinelearningmastery.com/using-normalization-layers-to-improve-deep-learning-models/">https://machinelearningmastery.com/using-normalization-layers-to-improve-deep-learning-models/</a>.</li>
+        <li>GeeksforGeeks, 2024. Training and Validation Loss in Deep Learning. Available at: <a href="https://www.geeksforgeeks.org/training-and-validation-loss-in-deep-learning/">https://www.geeksforgeeks.org/training-and-validation-loss-in-deep-learning/</a>.</li>
+        <li>GeeksforGeeks, 2024. Why Do We Use Both Validation Set and Test Set? Available at: <a href="https://www.geeksforgeeks.org/why-do-we-use-both-validation-set-and-test-set/">https://www.geeksforgeeks.org/why-do-we-use-both-validation-set-and-test-set/</a>.</li>
+        <li>Goodfellow, I., Bengio, Y. & Courville, A., 2016. Deep Learning. MIT Press. Available at: <a href="https://www.deeplearningbook.org/">https://www.deeplearningbook.org/</a>.</li>
+        <li>Hopsworks, n.d. What Is a Model Architecture? Available at: <a href="https://www.hopsworks.ai/dictionary/model-architecture">https://www.hopsworks.ai/dictionary/model-architecture</a>.</li>
+        <li>Krizhevsky, A., 2009. CIFAR-10 and CIFAR-100 Datasets. Toronto.edu. Available at: <a href="https://www.cs.toronto.edu/~kriz/cifar.html">https://www.cs.toronto.edu/~kriz/cifar.html</a>.</li>
+        <li>LeCun, Y., et al., 2015. Deep Learning. Nature, 521(7553), pp.436–444. Available at: <a href="https://www.nature.com/articles/nature14539">https://www.nature.com/articles/nature14539</a>.</li>
+        <li>Nagyfi, R., 2018. The Differences between Artificial and Biological Neural Networks. Medium, Towards Data Science. Available at: <a href="https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7">https://towardsdatascience.com/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7</a>.</li>
+        <li>Nekouei, F., 2023. CIFAR-10 Image Classification with CNN. Kaggle. Available at: <a href="https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn#Step-2-%7C-Data-Preparation-and-Exploration">https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn</a>.</li>
+        <li>Waiss, S., 2023. Normalizing an Image Dataset for CNN. ResearchGate. Available at: <a href="https://www.researchgate.net/post/Normalizing_a_image_dataset_for_CNN">https://www.researchgate.net/post/Normalizing_a_image_dataset_for_CNN</a>.</li>
     </ul>
