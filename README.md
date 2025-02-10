@@ -23,8 +23,6 @@
     <h3>Data Preprocessing</h3>
     <p>To improve convergence, pixel values are normalised to the range of [0,1]. Additionally, data augmentation techniques, such as random horizontal flips, rotations, and shifts, are applied to improve generalisation.</p>
 
-[For code](code.ipynb)
-
 <h3>Model Architecture</h3>
     <p>The CNN model consists of convolutional layers with ReLU activation functions, followed by max-pooling layers to reduce dimensionality. Dropout layers are incorporated to prevent overfitting, and the final output layer uses a softmax activation function for multi-class classification.</p>
     
@@ -34,6 +32,8 @@
 <h3>Evaluation Metrics</h3>
     <p>The primary evaluation metric is validation loss, which helps identify overfitting. Categorical cross-entropy is used as the loss function for multi-class classification. Additional metrics, such as accuracy, precision, recall, and F1-score, are also considered to assess performance.</p>
     
+[For code](code.ipynb)
+
 <h2>Key Findings</h2>
     <p>Reducing filter sizes enhances generalisation but can limit the model’s ability to recognise patterns. Dropout layers are effective in preventing overfitting but require fine-tuning. The Adam optimiser provides efficient training, although SGD with momentum might yield better convergence in certain cases. Monitoring validation loss is more reliable than accuracy alone for detecting overfitting.</p>
     
