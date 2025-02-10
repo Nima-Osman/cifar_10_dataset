@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neural Network-Based Image Classification</title>
+    
 </head>
 <body>
     <h1>Neural Network-Based Image Classification Using CNNs</h1>
@@ -35,12 +35,6 @@
  <h2>Future Improvements</h2>
     <p>Several enhancements can be made to improve model performance. Implementing automated hyperparameter tuning, such as grid search or cyclic learning rates, can optimize training. Using Leaky ReLU instead of standard ReLU may help mitigate the dying ReLU problem. Additionally, exploring alternative loss functions like focal loss can be beneficial for handling class imbalances.</p>
     
- <h2>References</h2>
-    <ul>
-        <li>Goodfellow et al. (2016) – <i>Deep Learning</i></li>
-        <li>Krizhevsky et al. (2009) – <i>CIFAR-10 Dataset</i></li>
-        <li>GeeksforGeeks (2024) – <i>Neural Network Optimization</i></li>
-        <li>Nekouei (2023) – <i>Kaggle: CIFAR-10 Image Classification</i></li>
-    </ul>
+ [For references](references.md)
 </body>
 </html>
