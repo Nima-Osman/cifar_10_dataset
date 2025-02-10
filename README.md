@@ -45,25 +45,26 @@
 
 <p align="center">
 <img src="images\cifar 5.png"  alt="Centered Image"  width="500">
-<i>Figure 2: Confusion Matrix showing classification performance and misclassifications.</i>
 </p>
-    
+
+<p class="centered-text"><i>Figure 2: Confusion Matrix showing classification performance and misclassifications.</i></p>
+
 The graphical analysis of training and validation loss indicates that the model successfully learned patterns without severe overfitting. Accuracy curves demonstrate steady improvement across epochs. The final test image of a truck was correctly classified, verifying the model's ability to generalize to unseen data.</p>
 
 <p align="center">
 <img src="images\cifar 2.png"  alt="Centered Image"  width="500">
-<i>Figure 4: Training and validation accuracy over epochs.</i>
 </p>
+<p class="centered-text"><i>Figure 4: Training and validation accuracy over epochs.</i></p>
 
 <p align="center">
 <img src="images\cifar 3.png"  alt="Centered Image"  width="500">
-<i>Figure 3: Training and validation loss curves demonstrating model performance.</i>
 </p>
+<p class="centered-text"><i>Figure 3: Training and validation loss curves demonstrating model performance.</i></p>
 
 <p align="center">
 <img src="images\cifar 6.png"  alt="Centered Image"  width="500">
-<i>Figure 5: Final classification result showing correct prediction of a truck.</i>
 </p>
+<p class="centered-text"><i>Figure 5: Final classification result showing correct prediction of a truck.</i></p>
 
  <h2>Future Improvements</h2>
     <p>Several enhancements can be made to improve model performance. Implementing automated hyperparameter tuning, such as grid search or cyclic learning rates, can optimize training. Using Leaky ReLU instead of standard ReLU may help mitigate the dying ReLU problem. Additionally, exploring alternative loss functions like focal loss can be beneficial for handling class imbalances.</p>
